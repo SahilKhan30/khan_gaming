@@ -1,0 +1,115 @@
+li {
+   display: inline-block;
+   padding: 20px;
+}
+
+h1 {
+   margin-top: 0px;
+   margin-bottom: 10px;
+   padding-top: 20px;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   color: #66bfbf;
+   line-height: 1.5;
+   background-color: rgb(193, 222, 231);
+}
+
+ul {
+   margin-top: 0px;
+   background-color: #dcf8c4;
+}
+
+body {
+   margin: 0;
+   text-align: center;
+   font-family: 'Merriweather Sans', sans-serif;
+}
+a {
+   color: #11999e;
+   text-decoration: none;
+}
+
+.contact-me a:hover {
+   color: white;
+}
+
+button:hover {
+   background-color: #dcf8c4;
+
+   padding: 15px;
+   color: rgb(12, 12, 12);
+}
+
+ul a:hover {
+   font-family: 'Caveat Brush', cursive;
+   font-size: 40px;
+}
+
+#welcome {
+   text-align: center;
+}
+.game {
+   outline: none;
+   border: 10px solid #404b69;
+   font-size: 2rem;
+   font-family: 'Arvo', cursive;
+   line-height: 2;
+   font-weight: 900;
+   color: #da0463;
+   text-shadow: 3px 0 #dbedf3;
+   border-radius: 15px;
+   display: inline-block;
+   width: 350px;
+   height: 150px;
+   text-align: center;
+   margin: 10px;
+   background-color: white;
+}
+.credit {
+   padding-top: 0px;
+   padding-bottom: 4px;
+   margin-bottom: 0;
+   position: absolute;
+   bottom: 5px;
+   left: 688.5px;
+   width: 142.2px;
+}
+.footer-link {
+   padding-left: 10;
+   padding-top: 0;
+   padding-bottom: 0;
+   text-align: center;
+}
+
+.in {
+   display: inline-block;
+   position: absolute;
+   left: 550px;
+}
+.ig {
+   display: inline-block;
+   position: absolute;
+   left: 722.1px;
+}
+.fb {
+   display: inline-block;
+   position: absolute;
+   left: 894.2px;
+}
+.footer-img {
+   border-radius: 25%;
+   height: 75px;
+   width: 75px;
+}
+.footer-img:hover {
+   height: 85px;
+   width: 85px;
+}
+.contact-me {
+   background-color: #66bfbf;
+   padding-bottom: 0px;
+   padding-top: 10px;
+   margin-top: 0;
+   position: relative;
+   height: 140px;
+}
